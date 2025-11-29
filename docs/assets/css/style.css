@@ -5,6 +5,6 @@
 
 body {
 
-  background: $body-background url("/assets/img/background.png") 0 0;
+  background: $body-background url({{ "/assets/img/background.png" | relative_url }}) 0 0;
 
 }
