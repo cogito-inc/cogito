@@ -1,5 +1,4 @@
 
-
-{{ "/assets/img/logo.png"| relative-path | image_url: width: "1em" | image_tag }}
-
-
+```html
+<img src={{ "/assets/img/logo.png"| relative-path }} width=1em/>
+```
