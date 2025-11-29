@@ -1,6 +1,6 @@
 title: cogito
 logo: /assets/img/logo.png
 description: A reasoning company.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
