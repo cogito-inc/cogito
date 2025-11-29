@@ -18,7 +18,6 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>
-	<img src="/cogito/assets/img/logo.png" width=25em style="vertical-align:middle"/>
 	{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
@@ -32,9 +31,14 @@
     </header>
 
     <div class="container">
+      <div style="margin:auto">
+        <img src="/cogito/assets/img/logo.png" width=25em style="vertical-align:middle"/>
+      </div>
+
       <section id="main_content">
         {{ content }}
       </section>
+
     </div>
   </body>
 </html>
