@@ -7,6 +7,7 @@ header {
   margin: 0;
   padding : 0;
   border-bottom: 0;
+  background: transparent;
 }	
 
 body {
@@ -18,4 +19,6 @@ body {
 
 .container {
   background: rgba(0, 0, 0, 0.1);
+  padding: 1em;
+  margin: 0;
 }
