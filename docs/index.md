@@ -1,5 +1,5 @@
 
 
-{{ "/assets/img/logo.png"| image_url: width: "1em" | image_tag: width: "1em" }}
+{{ "/assets/img/logo.png"| relative-path | image_url: width: "1em" | image_tag }}
 
 
