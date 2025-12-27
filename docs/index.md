@@ -1,7 +1,15 @@
 
+# Products
+
+## rendez-vous
+
+## cogito AI
+
+## ...
+
 # Philosophy
 
-We provide a sustainable approach to automated reasoning and offer the know-how on the technology we develop.
+We provide a sustainable approach to automated reasoning, develop new age products and offer the know-how on the technology we develop.
 
 # Background
 
@@ -17,4 +25,4 @@ opencompass results
 
 # People
 
-Dr. Cédric S. Coeuret
+Dr. Cédric
